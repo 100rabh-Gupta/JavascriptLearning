@@ -1,0 +1,56 @@
+.button
+{
+    height:50px;
+    width: 80px;
+    border: 2px solid black;
+    border-radius: 10%;
+    margin: 0px 2.5px 0px 2.5px;
+   display: inline-block;
+    background-color: rgb(0, 128, 255);
+}
+.canva
+{
+    /* background-color: rgb(255, 0, 174); */
+
+    height:300px;
+    width: 100%;
+
+
+}
+
+nav{
+    color:black;
+    background-color: aquamarine;
+    /* display: flex */
+
+
+}
+#blue{
+    background-color: rgb(5, 179, 254);
+}
+#red{
+    background-color: rgb(255, 0, 0);
+}
+#yellow{
+    background-color: rgb(243, 243, 69);
+}
+#grey{
+    background-color: rgb(170, 190, 198);
+}#white{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.buuton{display: inline-block;
+        border: 3px solid black;
+        padding: 5px;
+        margin-left:  5px ;
+        height: 100%;
+        width: 40px;
+        border-radius: 5%;
+       
+
+
+}
+
+
