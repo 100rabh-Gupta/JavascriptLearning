@@ -128,22 +128,3 @@ console.log(`Your grade is: ${grade}`);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
