@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/saurabh/College/lanaguage/Web D/javascript/mini_projects",
+      "program": "/Users/saurabh/College/lanaguage/Web D/javascript/mini_projects/build/Debug/outDebug"
+    }
+  ]
+}
